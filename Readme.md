@@ -65,7 +65,7 @@ giginya tinggal dua
 ^D
 ```
 
-![App Screenshot](<Nomor (4).png>)
+![App Screenshot](</Image/Nomor%20(4).png>)
 
 Perintah ini membuat file `burung` dan mengisinya dengan teks tertentu.
 
