@@ -10,3 +10,10 @@ print("Nama:", nama)
 print("NIM:", nim)
 print("Kelas:", kelas)
 print("Mata Kuliah:", mata_kuliah)
+
+with open("biodata_mahasiswa.txt", "w") as file:
+    file.write("Biodata Mahasiswa\n")
+    file.write("Nama: " + nama + "\n")
+    file.write("NIM: " + nim + "\n")
+    file.write("Kelas: " + kelas + "\n")
+    file.write("Mata Kuliah: " + mata_kuliah + "\n")
